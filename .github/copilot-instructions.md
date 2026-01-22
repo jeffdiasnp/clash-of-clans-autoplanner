@@ -28,6 +28,6 @@
 	- Backend: http://localhost:8080
 	- Frontend: http://localhost:3000
 
-- [ ] Ensure Documentation is Complete
+- [x] Ensure Documentation is Complete
 	- README.md atualizado.
 	- Instruções de execução e configuração do .env documentadas.
